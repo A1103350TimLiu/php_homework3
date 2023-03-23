@@ -22,7 +22,7 @@ if(($prID==$id)&&($prPWD==$pwd)){
     header("location:student.php");
 }else{
     $_SESSION["login"]="fail";
-    header("location:fail_hw3.php");
+    header("location:fail.php");
 }
 
 ?>

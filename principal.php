@@ -21,7 +21,7 @@ if($_SESSION["login"]=="principal"){
 
 Wellcome, principal!</br>
 <a href="teacher.php">Teacher page.</a></br>
-<a href="logout_.php">logout</a></br> 
+<a href="logout.php">logout</a></br> 
 
 </body>
 

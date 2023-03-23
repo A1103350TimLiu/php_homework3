@@ -31,7 +31,7 @@ if($_SESSION["login"]=="principal"){
 }
 ?>
 
-<a href="logout_hw3.php">logout</a></br> 
+<a href="logout.php">logout</a></br> 
 
 </body>
 
